@@ -11,7 +11,8 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [How Green Is My Valley?](https://www.codewars.com/kata/56e3cd1d93c3d940e50006a4) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/How%20Green%20Is%20My%20Valley.go) |
 | [Band name generator](https://www.codewars.com/kata/59727ff285281a44e3000011) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Band%20name%20generator.go) |
 | [All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/All%20Inclusive.go) |
-| [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Descending%20Order.js)
+| [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Descending%20Order.js) |
+| (https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
 
 ## 6 kyu
 
