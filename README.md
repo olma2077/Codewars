@@ -13,6 +13,7 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [All Inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/All%20Inclusive.go) |
 | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Descending%20Order.js) |
 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Complementary%20DNA.js) |
+| [Find the divisors!](https://www.codewars.com/kata/544aed4c4a30184e960010f4) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Find%20the%20divisors.js) |
 
 ## 6 kyu
 
