@@ -30,6 +30,7 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Steps in Primes](https://www.codewars.com/kata/5613d06cee1e7da6d5000055) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Steps%20in%20Primes.go) |
 | [Moduli number system](https://www.codewars.com/kata/54db15b003e88a6a480000b9) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Moduli%20number%20system.go) |
 | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Tribonacci%20Sequence.js) |
+| [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Playing%20with%20digits.js) |
 
 ## 5 kyu
 
