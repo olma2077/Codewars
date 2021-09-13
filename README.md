@@ -14,6 +14,7 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Descending%20Order.js) |
 | [Complementary DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Complementary%20DNA.js) |
 | [Find the divisors!](https://www.codewars.com/kata/544aed4c4a30184e960010f4) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Find%20the%20divisors.js) |
+| [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Sum%20of%20odd%20numbers.js) |
 
 ## 6 kyu
 
@@ -31,6 +32,7 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Moduli number system](https://www.codewars.com/kata/54db15b003e88a6a480000b9) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Moduli%20number%20system.go) |
 | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Tribonacci%20Sequence.js) |
 | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Playing%20with%20digits.js) |
+| [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Create%20Phone%20Number.js) |
 
 ## 5 kyu
 
