@@ -33,6 +33,7 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Tribonacci%20Sequence.js) |
 | [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Playing%20with%20digits.js) |
 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Create%20Phone%20Number.js) |
+| [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Find The Parity Outlier.js) |
 
 ## 5 kyu
 
