@@ -35,6 +35,7 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Create%20Phone%20Number.js) |
 | [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Find%20The%20Parity%20Outlier.js) |
 | [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/IQ%20Test.js) |
+| [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [JS](https://github.com/olma2077/Codewars/blob/master/Find%20the%20missing%20letter.js) |
 
 ## 5 kyu
 
