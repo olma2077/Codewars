@@ -36,6 +36,7 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Find%20The%20Parity%20Outlier.js) |
 | [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/IQ%20Test.js) |
 | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [JS](https://github.com/olma2077/Codewars/blob/master/Find%20the%20missing%20letter.js) |
+| [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [JS](https://github.com/olma2077/Codewars/blob/master/Stop%20gninnipS%20My%20sdroW.js) |
 
 ## 5 kyu
 
