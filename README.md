@@ -44,3 +44,4 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | --- | --- |
 | [Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Gap%20in%20Primes.go) |
 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Maximum%20subarray%20sum.go) |
+| [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) | [JS](https://github.com/olma2077/Codewars/blob/master/Rot13.js) |
