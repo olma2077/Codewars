@@ -37,6 +37,7 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/IQ%20Test.js) |
 | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [JS](https://github.com/olma2077/Codewars/blob/master/Find%20the%20missing%20letter.js) |
 | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [JS](https://github.com/olma2077/Codewars/blob/master/Stop%20gninnipS%20My%20sdroW.js) |
+| [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) | [JS](https://github.com/olma2077/Codewars/blob/master/Bouncing%20Balls.js) |
 
 ## 5 kyu
 
