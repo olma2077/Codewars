@@ -47,3 +47,4 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Maximum%20subarray%20sum.go) |
 | [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) | [JS](https://github.com/olma2077/Codewars/blob/master/Rot13.js) |
 | [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) | [JS](https://github.com/olma2077/Codewars/blob/master/Where%20my%20anagrams%20at.js) |
+| [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [JS](https://github.com/olma2077/Codewars/blob/master/Moving%20Zeros%20To%20The%20End.js) |
