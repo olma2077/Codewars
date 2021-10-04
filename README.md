@@ -49,3 +49,9 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) | [JS](https://github.com/olma2077/Codewars/blob/master/Where%20my%20anagrams%20at.js) |
 | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [JS](https://github.com/olma2077/Codewars/blob/master/Moving%20Zeros%20To%20The%20End.js) |
 | [Memoized Fibonacci](https://www.codewars.com/kata/529adbf7533b761c560004e5) | [JS](https://github.com/olma2077/Codewars/blob/master/Memoized%20Fibonacci.js) |
+
+## 4 kyu
+
+| Problem | Solution |
+| --- | --- |
+| [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) | [JS](https://github.com/olma2077/Codewars/blob/master/Go/Sudoku%20Solution%20Validator.js) |
