@@ -35,9 +35,9 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Create%20Phone%20Number.js) |
 | [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Find%20The%20Parity%20Outlier.js) |
 | [IQ Test](https://www.codewars.com/kata/552c028c030765286c00007d) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/IQ%20Test.js) |
-| [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [JS](https://github.com/olma2077/Codewars/blob/master/Find%20the%20missing%20letter.js) |
-| [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [JS](https://github.com/olma2077/Codewars/blob/master/Stop%20gninnipS%20My%20sdroW.js) |
-| [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) | [JS](https://github.com/olma2077/Codewars/blob/master/Bouncing%20Balls.js) |
+| [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Find%20the%20missing%20letter.js) |
+| [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Stop%20gninnipS%20My%20sdroW.js) |
+| [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Bouncing%20Balls.js) |
 
 ## 5 kyu
 
@@ -45,13 +45,14 @@ My Codewars solutions with Go, Python3 and JavaScript.
 | --- | --- |
 | [Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Gap%20in%20Primes.go) |
 | [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | [Go](https://github.com/olma2077/Codewars/blob/master/Go/Maximum%20subarray%20sum.go) |
-| [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) | [JS](https://github.com/olma2077/Codewars/blob/master/Rot13.js) |
-| [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) | [JS](https://github.com/olma2077/Codewars/blob/master/Where%20my%20anagrams%20at.js) |
-| [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [JS](https://github.com/olma2077/Codewars/blob/master/Moving%20Zeros%20To%20The%20End.js) |
-| [Memoized Fibonacci](https://www.codewars.com/kata/529adbf7533b761c560004e5) | [JS](https://github.com/olma2077/Codewars/blob/master/Memoized%20Fibonacci.js) |
+| [Rot13](https://www.codewars.com/kata/530e15517bc88ac656000716) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Rot13.js) |
+| [Where my anagrams at?](https://www.codewars.com/kata/523a86aa4230ebb5420001e1) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Where%20my%20anagrams%20at.js) |
+| [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Moving%20Zeros%20To%20The%20End.js) |
+| [Memoized Fibonacci](https://www.codewars.com/kata/529adbf7533b761c560004e5) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Memoized%20Fibonacci.js) |
 
 ## 4 kyu
 
 | Problem | Solution |
 | --- | --- |
-| [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) | [JS](https://github.com/olma2077/Codewars/blob/master/Go/Sudoku%20Solution%20Validator.js) |
+| [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/Sudoku%20Solution%20Validator.js) |
+| [parseInt() reloaded](https://www.codewars.com/kata/529bf0e9bdf7657179000008) | [JS](https://github.com/olma2077/Codewars/blob/master/JavaScript/parseInt%20reloaded.js) |
